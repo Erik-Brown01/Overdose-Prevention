@@ -1,0 +1,285 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr style="font-weight:bold;">
+			<th scope="col">Program Name</th><th scope="col">DBA</th><th scope="col">Street</th><th scope="col">City</th><th scope="col">State</th><th scope="col">Zipcode</th><th scope="col">Phone</th><th scope="col">Certification</th><th scope="col">FullCertification</th>
+		</tr><tr>
+			<td>Whitney M. Young Jr. Rehabilitation Program</td><td>&nbsp;</td><td>4-10 Dewitt St.</td><td>Albany</td><td>NY</td><td>12207</td><td>(518) 463-3882</td><td>Certified</td><td>11/14/2004</td>
+		</tr><tr>
+			<td>Promesa, Inc</td><td>Camino Nuevo</td><td>175 Central Avenue</td><td>Albany</td><td>NY</td><td>12206</td><td>(518) 729-5659</td><td>Certified</td><td>09/12/2016</td>
+		</tr><tr>
+			<td>Sisters Amherst Health Center</td><td>&nbsp;</td><td>210 John Glenn</td><td>Amherst</td><td>NY</td><td>14228</td><td>(716) 862-2059</td><td>Certified</td><td>09/10/2019</td>
+		</tr><tr>
+			<td>The Long Island Home</td><td>South Oaks Hospital</td><td>400 Sunrise Hwy.</td><td>Amityville</td><td>NY</td><td>11701</td><td>(631) 264-4000 x4100</td><td>Certified</td><td>11/21/2006</td>
+		</tr><tr>
+			<td>St. Mary&#39;s Comprehensive Outpatient Clinic</td><td>Hospital Based</td><td>4988 State Highway 30</td><td>Amsterdam</td><td>NY</td><td>12010</td><td>(518) 843-4410</td><td>Certified</td><td>05/09/2005</td>
+		</tr><tr>
+			<td>Genesee Council on Alcoholism and Substance Abuse, Inc. (GCASA)</td><td>430 East Main Street Batavia, NY 14020</td><td>430 East Main Street</td><td>Batavia</td><td>NY</td><td>14020</td><td>(585) 343-1124</td><td>Certified</td><td>08/28/2019</td>
+		</tr><tr>
+			<td>United Health Services, Southern Tier Drug Abuse Treatment Center</td><td>Methadone Maintenance Program</td><td>33 Mitchell Ave.</td><td>Binghamton</td><td>NY</td><td>13903</td><td>(607) 762-2800</td><td>Certified</td><td>11/22/2002</td>
+		</tr><tr>
+			<td>Samaritan Daytop Village Rockland Outpatient</td><td>Samaritan Daytop Village</td><td>620 Route 303</td><td>Blauvlet</td><td>NY</td><td>10913</td><td>(845) 353-2730</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>Outreach Recovery Center</td><td>Outreach: Building Healthy Lives</td><td>998 Crooked Hill Road, building 5</td><td>Brentwood</td><td>NY</td><td>11717</td><td>(631) 521-8400</td><td>Certified</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>Samaritan Village OTP</td><td>Samaritan Daytop Village</td><td>362 East 148th Street</td><td>Bronx</td><td>NY</td><td>10455</td><td>(718) 292-4640</td><td>Certified</td><td>06/08/2006</td>
+		</tr><tr>
+			<td>Vocational Instruction Project Community Services</td><td>Vocational Instruction Project Community Services</td><td>770 East 176th Street</td><td>Bronx</td><td>NY</td><td>10457</td><td>(718) 583-5150</td><td>Certified</td><td>02/07/2006</td>
+		</tr><tr>
+			<td>PUERTO RICAN ORGANIZATION TO MOTIVATE ENLIGHTEN AND SERVE ADDICTS INC. (Promesa)</td><td>Ramon Velez Recovery Center</td><td>754 East 151 Street</td><td>Bronx</td><td>NY</td><td>10455</td><td>347-443-2398</td><td>Certified</td><td>07/12/2017</td>
+		</tr><tr>
+			<td>Montefiore Medical Center, Substance Abuse Treatment Program (SATP) Unit III</td><td>&nbsp;</td><td>2058 Jerome Avenue</td><td>Bronx</td><td>NY</td><td>10453</td><td>(917) 564-8701</td><td>Certified</td><td>12/18/2003</td>
+		</tr><tr>
+			<td>Montefiore Medical Center - Wellness Center at Melrose</td><td>&nbsp;</td><td>260 East 161st Street- C Level</td><td>Bronx</td><td>NY</td><td>10451</td><td>(718) 993-3397</td><td>Certified</td><td>01/01/2004</td>
+		</tr><tr>
+			<td>St. Barnabas Hospital - Drug Detoxification Service</td><td>&nbsp;</td><td>4422 3rd Avenue 4 West Detox</td><td>Bronx</td><td>NY</td><td>10457</td><td>(718) 960-6590</td><td>Certified</td><td>10/12/2006</td>
+		</tr><tr>
+			<td>St. Barnabas Hospital Methadone Maintenance Treatment Program</td><td>St. Barnabas Hospital Methadone Maintenance Program</td><td>4535-39 Third Ave.</td><td>Bronx</td><td>NY</td><td>10457</td><td>(718) 960-6214</td><td>Certified</td><td>03/17/2006</td>
+		</tr><tr>
+			<td>Samaritan Village OTP</td><td>Samaritan Daytop Village</td><td>250 Grand Concourse</td><td>Bronx</td><td>NY</td><td>10451</td><td>(718) 292-4455</td><td>Certified</td><td>06/08/2006</td>
+		</tr><tr>
+			<td>Montefiore Medical Center - Wellness Center at Port Morris</td><td>&nbsp;</td><td>804 East 138th Street</td><td>Bronx</td><td>NY</td><td>10454</td><td>(718) 665-7500</td><td>Certified</td><td>01/01/2004</td>
+		</tr><tr>
+			<td>James J. Peters VA Medical Center</td><td>Bronx VA Medical Center Substance Abuse Services Program</td><td>130 West Kingsbridge Road</td><td>Bronx</td><td>NY</td><td>10468</td><td>(718) 584-9000</td><td>Certified</td><td>02/20/2004</td>
+		</tr><tr>
+			<td>Concourse Medical Center, Inc.</td><td>Concourse Medical Center, Inc.</td><td>880 Morris Ave.</td><td>Bronx</td><td>NY</td><td>10451</td><td>(718) 665-9340</td><td>Certified</td><td>04/01/2004</td>
+		</tr><tr>
+			<td>Promesa, Inc.</td><td>OTP</td><td>1776 Clay Ave.</td><td>Bronx</td><td>NY</td><td>10457</td><td>347-649-3041</td><td>Certified</td><td>03/26/2004</td>
+		</tr><tr>
+			<td>Montefiore Medical Center SATP Unit I</td><td>&nbsp;</td><td>3550 Jerome Ave.</td><td>Bronx</td><td>NY</td><td>10467</td><td>(718) 920-4067</td><td>Certified</td><td>12/11/2003</td>
+		</tr><tr>
+			<td>Montefiore Medical Center -Wellness Center at Waters Place</td><td>&nbsp;</td><td>1510 Waters Place</td><td>Bronx</td><td>NY</td><td>10461</td><td>(718) 829-3440</td><td>Certified</td><td>12/01/2003</td>
+		</tr><tr>
+			<td>BronxCare Health System OTP</td><td>Opioid Treatment Program</td><td>1276 Fulton Avenue</td><td>Bronx</td><td>NY</td><td>10456</td><td>(718) 503-7752</td><td>Certified</td><td>10/12/2006</td>
+		</tr><tr>
+			<td>St. Joseph&#39;s Hospital, Yonkers- Alabama Ave Clinic</td><td>St. Martin de Porres Clinic-Brooklyn Addiction Services Program</td><td>480 Alabama Ave.</td><td>Brooklyn</td><td>NY</td><td>11207</td><td>(718) 485-3400</td><td>Certified</td><td>09/09/2005</td>
+		</tr><tr>
+			<td>START Treatment &amp; Recovery Centers, Inc</td><td>&nbsp;</td><td>937 Fulton St.</td><td>Brooklyn</td><td>NY</td><td>11238</td><td>(718) 789-1212</td><td>Certified</td><td>05/31/2003</td>
+		</tr><tr>
+			<td>South Brooklyn Medical Administrative Services, Inc.</td><td>&nbsp;</td><td>685 Third Ave.</td><td>Brooklyn</td><td>NY</td><td>11232</td><td>(718) 788-2594</td><td>Certified</td><td>11/01/2003</td>
+		</tr><tr>
+			<td>Mount Sinai Beth Israel O.T.P. - Vincent P. Dole Clinic</td><td>Opioid Treatment Program</td><td>25-12th St.</td><td>Brooklyn</td><td>NY</td><td>11215</td><td>(718) 965-7900</td><td>Certified</td><td>09/12/2003</td>
+		</tr><tr>
+			<td>St. Joseph&#39;s Hospital, Yonkers-Powell Street Clinic</td><td>Brooklyn Addiction Services Program</td><td>211-221 Powell St.</td><td>Brooklyn</td><td>NY</td><td>11212</td><td>(718) 485-6000</td><td>Certified</td><td>09/09/2005</td>
+		</tr><tr>
+			<td>START Treatment &amp; Recovery Centers, Inc</td><td>&nbsp;</td><td>1149-55 Myrtle Ave.</td><td>Brooklyn</td><td>NY</td><td>11206</td><td>(917) 589-8364</td><td>Certified</td><td>05/31/2003</td>
+		</tr><tr>
+			<td>START Treatment &amp; Recovery Centers, Inc</td><td>&nbsp;</td><td>494 Dumont Ave.</td><td>Brooklyn</td><td>NY</td><td>11207</td><td>(347) 404-8433</td><td>Certified</td><td>05/31/2003</td>
+		</tr><tr>
+			<td>Interfaith Medical Center -  Methadone Maintenance Treatment Program</td><td>One Brooklyn Health System, Inc as Active Parent &amp; Co-Operator, Brookdale Hospital as Co-Operator</td><td>880 Bergen Street</td><td>Brooklyn</td><td>NY</td><td>11213</td><td>(718) 613-7511</td><td>Certified</td><td>10/05/2006</td>
+		</tr><tr>
+			<td>ACACIA NETWORK, Inc. as sponsor, The Puerto Rican Organization to Motivate, Enlighten, and Serve Addicts, Inc. as operator</td><td>&nbsp;</td><td>553-561 Court St.</td><td>Brooklyn</td><td>NY</td><td>11231</td><td>(718) 802-1111</td><td>Certified</td><td>06/08/2006</td>
+		</tr><tr>
+			<td>Staten Island University Hospital - 105th St. M.M.T.P.</td><td>Staten Island University Hospital</td><td>567 East 105th St.</td><td>Brooklyn</td><td>NY</td><td>11236</td><td>(718) 307-3001</td><td>Certified</td><td>06/15/2006</td>
+		</tr><tr>
+			<td>Kingsboro Addiction Treatment Center</td><td>&nbsp;</td><td>754 Lexington Avenue</td><td>Brooklyn</td><td>NY</td><td>11221</td><td>(718) 453-3200</td><td>Certified</td><td>11/14/2006</td>
+		</tr><tr>
+			<td>Parkside Dependency Treatment Program - The Brooklyn Hospital Center Caledonian Campus</td><td>&nbsp;</td><td>121 DeKalb Ave.</td><td>Brooklyn</td><td>NY</td><td>11201</td><td>(718) 250-8900</td><td>Certified</td><td>06/14/2003</td>
+		</tr><tr>
+			<td>Woodhull Medical and Mental Health Center</td><td>&nbsp;</td><td>Units 8-300 and 9300, 760 Broadway</td><td>Brooklyn</td><td>NY</td><td>11206</td><td>(718) 963-8829</td><td>Certified</td><td>11/16/2005</td>
+		</tr><tr>
+			<td>Interfaith Medical Center - Detoxification Unit</td><td>&nbsp;</td><td>1545 Atlantic Ave.</td><td>Brooklyn</td><td>NY</td><td>11213</td><td>(718) 613-4330</td><td>Certified</td><td>10/05/2006</td>
+		</tr><tr>
+			<td>NYC H and H/ Kings County, Wellness and Recovery Center OTP</td><td>&nbsp;</td><td>591 Kingston Avenue</td><td>Brooklyn</td><td>NY</td><td>11203</td><td>(718) 245-2625</td><td>Certified</td><td>03/20/2002</td>
+		</tr><tr>
+			<td>Genesis Detox of Brooklyn, LLC</td><td>&nbsp;</td><td>449 39th Street</td><td>Brooklyn</td><td>NY</td><td>11232</td><td>(718) 633-4673</td><td>Certified</td><td>07/08/2020</td>
+		</tr><tr>
+			<td>Metropolitan Correctional Center</td><td>BOP</td><td>100 29th Street</td><td>Brooklyn</td><td>NY</td><td>11232</td><td>(718) 840-4200</td><td>Certified</td><td>12/06/2006</td>
+		</tr><tr>
+			<td>Urban Recovery</td><td>&nbsp;</td><td>411 Van Brunt St</td><td>Brooklyn</td><td>NY</td><td>11231</td><td>(646) 960-6656</td><td>Certified</td><td>08/11/2021</td>
+		</tr><tr>
+			<td>A.R.E.B.A Casriel Institute</td><td>Opioid Treatment Program</td><td>589 Rockaway Avenue</td><td>Brooklyn</td><td>NY</td><td>11212</td><td>(929) 258-0059</td><td>Certified</td><td>10/24/2005</td>
+		</tr><tr>
+			<td>SurfPoint Recovery</td><td>&nbsp;</td><td>2316 Surf Avenue</td><td>Brooklyn</td><td>NY</td><td>11224</td><td>(646) 960-6656</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>Surfpoint Recovery, LLC</td><td>&nbsp;</td><td>2316 Surf Ave</td><td>Brooklyn</td><td>NY</td><td>11224</td><td>(347) 727-4800</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>Center for Community Alternatives</td><td>&nbsp;</td><td>25 Chapel Street Ste 701</td><td>Brooklyn</td><td>NY</td><td>11201</td><td>(718) 858-9658</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>Promesa Inc.</td><td>&nbsp;</td><td>254 Virginia Street</td><td>Buffalo</td><td>NY</td><td>14201</td><td>(716) 768-4040</td><td>Certified</td><td>03/31/2016</td>
+		</tr><tr>
+			<td>Sister&#39;s Hospital Pathways</td><td>Buffalo Pathways</td><td>158 Holden St.</td><td>Buffalo</td><td>NY</td><td>14214</td><td>(716) 862-1330</td><td>Certified</td><td>11/16/2006</td>
+		</tr><tr>
+			<td>Erie County Medical Center Withdrawal and Stabilization Service</td><td>Erie County Medical Center Withdrawal and Stabilization Service</td><td>ECMC Withdrawal and Stabilization Service</td><td>Buffalo</td><td>NY</td><td>14215</td><td>(716) 898-3415</td><td>Certified</td><td>03/28/2004</td>
+		</tr><tr>
+			<td>Community Action Organization of Western NY, Inc.</td><td>&nbsp;</td><td>1237 Main St.</td><td>Buffalo</td><td>NY</td><td>14209</td><td>(716) 884-9101</td><td>Certified</td><td>06/22/2005</td>
+		</tr><tr>
+			<td>St. Lawrence County Addiction Services</td><td>St. Lawrence County</td><td>80 state highway 310, Suite 1</td><td>Canton</td><td>NY</td><td>13617</td><td>(315) 386-2189</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>Arms Acres, Inc.</td><td>&nbsp;</td><td>21 Old Route 6</td><td>Carmel</td><td>NY</td><td>10512</td><td>(845) 225-5202</td><td>Certified</td><td>07/03/2018</td>
+		</tr><tr>
+			<td>Arms Acres, Inc</td><td>Arms Acres, Inc</td><td>75 Seminary Hill Rd</td><td>Carmel</td><td>NY</td><td>10512</td><td>(845) 704-6117</td><td>Certified</td><td>09/28/2018</td>
+		</tr><tr>
+			<td>The Puerto Rican Organization to Motivate, Enlighten, and Serve Addicts, Inc (PROMESA)</td><td>PROMESA, INC -Safe Point Lighthouse</td><td>303 Main Street</td><td>Dunkirk</td><td>NY</td><td>14048</td><td>(716) 394-1685</td><td>Certified</td><td>02/10/2023</td>
+		</tr><tr>
+			<td>Rikers Island Correctional Facility</td><td>&nbsp;</td><td>Trailer 6 Rikers Island</td><td>East Elmhurst</td><td>NY</td><td>11370</td><td>(347) 774-7864</td><td>Certified</td><td>06/29/2005</td>
+		</tr><tr>
+			<td>Nassau County Substance Alternative Clinic- Butler Building</td><td>Nassau County Methadone Maintenance Treatment Program</td><td>2201 Hempstead Turnpike</td><td>East Meadow</td><td>NY</td><td>11534</td><td>(516) 572-6305</td><td>Certified</td><td>11/16/2005</td>
+		</tr><tr>
+			<td>Nassau Health Care Corporation</td><td>&nbsp;</td><td>2201 Hempstead Turnpike</td><td>East Meadow</td><td>NY</td><td>11554</td><td>(516) 572-6511</td><td>Certified</td><td>07/22/2009</td>
+		</tr><tr>
+			<td>Elmhurst Hospital Center, M.M.T.P.</td><td>&nbsp;</td><td>79-01 Broadway,  Annex O, Second Floor</td><td>Elmhurst</td><td>NY</td><td>11373</td><td>(718) 334-3190</td><td>Certified</td><td>10/30/2002</td>
+		</tr><tr>
+			<td>CASA-Trinity, Inc</td><td>&nbsp;</td><td>911 Stowell St</td><td>Elmira</td><td>NY</td><td>14901</td><td>585-622-0161</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>CS Medical Associates, P.C.</td><td>Victory Recovery Partners</td><td>100 Granny Rd</td><td>Farmingville</td><td>NY</td><td>11738-2879</td><td>(631) 696-4357</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>Flushing Hospital Medical Center- Chemical Dependency Unit</td><td>&nbsp;</td><td>45th Ave. &amp; Parsons Blvd.</td><td>Flushing</td><td>NY</td><td>11355</td><td>(718) 670-5693</td><td>Certified</td><td>02/26/2004</td>
+		</tr><tr>
+			<td>Medical Arts Sanitarium</td><td>Cornerstone of Medical Arts</td><td>159-05 Union Turnpike</td><td>Fresh Meadows</td><td>NY</td><td>11366</td><td>(718) 906-6700</td><td>Certified</td><td>07/20/2005</td>
+		</tr><tr>
+			<td>Long Island Jewish Hillside Medical Center Methadone Maintenance Treatment Program</td><td>&nbsp;</td><td>75-59 263rd Street</td><td>Glen Oaks</td><td>NY</td><td>11040</td><td>(718) 470-8940</td><td>Certified</td><td>05/11/2006</td>
+		</tr><tr>
+			<td>Conifer Park, Inc.</td><td>Conifer Park Inc.</td><td>79 Glenridge Rd.</td><td>Glenville</td><td>NY</td><td>12302-4523</td><td>(518) 399-6446</td><td>Certified</td><td>12/22/2005</td>
+		</tr><tr>
+			<td>University Hospital - Stony Brook Eastern Long Island Hospital</td><td>Quannacut @ SBELIH</td><td>201 Manor Place</td><td>Greenport</td><td>NY</td><td>11944</td><td>(631) 477-5394</td><td>Certified</td><td>06/01/2003</td>
+		</tr><tr>
+			<td>County of Suffolk</td><td>Hauppauge Clinic</td><td>Suffolk County Department of Health Services</td><td>Hauppauge</td><td>NY</td><td>11788-5229</td><td>(631) 853-7373</td><td>Certified</td><td>11/07/2003</td>
+		</tr><tr>
+			<td>Samaritan Daytop Village Suffolk Outpatient</td><td>&nbsp;</td><td>2075 New York Avenue</td><td>Huntington</td><td>NY</td><td>11746-3236</td><td>(631) 351-7113</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>County of Suffolk</td><td>Huntington Clinic</td><td>Suffolk County Department of Health Services</td><td>Huntington Station</td><td>NY</td><td>11746-7501</td><td>(631) 854-4400</td><td>Certified</td><td>11/13/2003</td>
+		</tr><tr>
+			<td>Ithaca Alpha House Center Inc.</td><td>Cayuga Addiction Recovery Services</td><td>334 W. State Street</td><td>Ithaca</td><td>NY</td><td>14850</td><td>(607) 273-5500</td><td>Certified</td><td>02/18/2021</td>
+		</tr><tr>
+			<td>St. Joseph&#39;s Hospital, Yonkers - Queens Clinic</td><td>&nbsp;</td><td>175-20 Hillside Avenue</td><td>Jamaica Queens</td><td>NY</td><td>11432</td><td>(718) 558-7240</td><td>Certified</td><td>09/09/2005</td>
+		</tr><tr>
+			<td>The Kingston Hospital Methadone Treatment Program</td><td>The Kingston Hospital Methadone Treatment Program</td><td>2 Barbarossa Lane</td><td>Kingston</td><td>NY</td><td>12401</td><td>(845) 943-6022</td><td>Certified</td><td>04/02/2004</td>
+		</tr><tr>
+			<td>Conifer Park, Inc</td><td>Conifer Park, Inc</td><td>526 Old Liverpool Rd</td><td>Liverpool</td><td>NY</td><td>13088</td><td>(315) 453-3911</td><td>Certified</td><td>11/08/2017</td>
+		</tr><tr>
+			<td>Eastern Niagara Hospital</td><td>Reflections Substance Abuse Centre</td><td>521 East Ave</td><td>Lockport</td><td>NY</td><td>14094</td><td>(716) 514-5501</td><td>Certified</td><td>09/01/2021</td>
+		</tr><tr>
+			<td>Triumph Treatment LLC</td><td>&nbsp;</td><td>309 W Park Avenue</td><td>Long Beach</td><td>NY</td><td>11561</td><td>&nbsp;</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>Farnham Inc</td><td>Farnham Family Services</td><td>111 Hamilton Street</td><td>Mexico</td><td>NY</td><td>13114</td><td>(315) 342-4489</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>Resource Recovery Center of Orange County, LLC</td><td>&nbsp;</td><td>68 Crystal Run Road</td><td>Middletown</td><td>NY</td><td>10941</td><td>845-209-3500</td><td>Certified</td><td>01/06/2021</td>
+		</tr><tr>
+			<td>Montefiore Mt. Vernon Hospital Methadone Maintenance Treatment Program</td><td>Montefiore Mt. Vernon Hospital, S A T P</td><td>3 South Sixth Ave</td><td>Mt. Vernon</td><td>NY</td><td>10550</td><td>(914) 361-6239</td><td>Certified</td><td>06/11/2003</td>
+		</tr><tr>
+			<td>The Guidance Center- Chemical Dependency Treatment Center</td><td>The Guidance Center of Westchester</td><td>20 Sickles Ave.</td><td>New Rochelle</td><td>NY</td><td>10801</td><td>(914) 613-0700</td><td>Certified</td><td>03/23/2006</td>
+		</tr><tr>
+			<td>Lafayette Medical Approach, LLC</td><td>&nbsp;</td><td>233 Lafayette St.</td><td>New York</td><td>NY</td><td>10012</td><td>(212) 431-6177</td><td>Certified</td><td>07/20/2006</td>
+		</tr><tr>
+			<td>West Midtown Management Group</td><td>West Midtown Medical Group</td><td>311 West 35th St.</td><td>New York</td><td>NY</td><td>10001</td><td>(212) 736-5900</td><td>Certified</td><td>12/14/2003</td>
+		</tr><tr>
+			<td>Carnegie Hill Institute</td><td>&nbsp;</td><td>116 East 92nd St.</td><td>New York</td><td>NY</td><td>10128</td><td>(212) 289-7166</td><td>Certified</td><td>01/19/2006</td>
+		</tr><tr>
+			<td>Mount Sinai Beth Israel O.T.P. - Gouverneur Clinic</td><td>Opioid Treatment Program</td><td>109-11 Delancey St.</td><td>New York</td><td>NY</td><td>10002</td><td>(212) 614-2840</td><td>Certified</td><td>09/14/2003</td>
+		</tr><tr>
+			<td>Mount Sinai Beth Israel O.T.P.  Ave. A Clinic</td><td>Opioid Treatment Program</td><td>26 Ave. A</td><td>New York</td><td>NY</td><td>10009</td><td>(212) 420-2079</td><td>Certified</td><td>09/17/2003</td>
+		</tr><tr>
+			<td>START Treatment &amp; Recovery Centers, Inc</td><td>Starting Point</td><td>119-121 West 124th St.</td><td>New York</td><td>NY</td><td>10027</td><td>(212) 932-2676</td><td>Certified</td><td>06/01/2003</td>
+		</tr><tr>
+			<td>Lower Eastside Service Center, Inc.</td><td>&nbsp;</td><td>46 East Broadway</td><td>New York</td><td>NY</td><td>10002</td><td>(212) 343-3550</td><td>Certified</td><td>08/01/2004</td>
+		</tr><tr>
+			<td>Lower Eastside Service Center, Inc., M.M.T.P. III</td><td>&nbsp;</td><td>62 East Broadway</td><td>New York</td><td>NY</td><td>10002</td><td>(212) 343-3591</td><td>Certified</td><td>08/01/2004</td>
+		</tr><tr>
+			<td>Mount Sinai Beth Israel O.T.P. Clinic 1</td><td>Opioid Treatment Program</td><td>1825 Park Avenue - 8th Floor</td><td>New York</td><td>NY</td><td>10035</td><td>(212) 774-3210</td><td>Certified</td><td>09/17/2003</td>
+		</tr><tr>
+			<td>Mount Sinai Beth Israel MMTP, Harlem OPD 2</td><td>Opioid Treatment Program</td><td>103 East 125th Street, 4th Floor</td><td>New York</td><td>NY</td><td>10035</td><td>(212) 774-3200</td><td>Certified</td><td>09/18/2003</td>
+		</tr><tr>
+			<td>Mount Sinai Beth Israel O.T.P. Clinics 6 &amp; 7</td><td>Opioid Treament Program</td><td>1825 Park Avenue - 2nd Floor</td><td>New York</td><td>NY</td><td>10035</td><td>(212) 774-3260</td><td>Certified</td><td>09/21/2003</td>
+		</tr><tr>
+			<td>Mount Sinai Beth Israel O.T.P.  Clinic 8</td><td>Opioid Treatment Program</td><td>140 W 125th ST, 6th Floor</td><td>New York</td><td>NY</td><td>10027</td><td>(212) 636-4840</td><td>Certified</td><td>09/21/2003</td>
+		</tr><tr>
+			<td>Lower Eastside Service Center, Inc., Residence</td><td>&nbsp;</td><td>MTAR &amp; SSMR &amp; PWIP</td><td>New York</td><td>NY</td><td>10002</td><td>(212) 566-6820</td><td>Certified</td><td>08/01/2004</td>
+		</tr><tr>
+			<td>Bellevue Hospital Center, M.M.T.P.</td><td>&nbsp;</td><td>462 First Avenue</td><td>New York</td><td>NY</td><td>10016</td><td>(212) 562-3201</td><td>Certified</td><td>01/23/2006</td>
+		</tr><tr>
+			<td>St. Lukes - Roosevelt Hospital Center</td><td>Methadone Maintenance Treatment Program</td><td>429 West 58th Street</td><td>New York</td><td>NY</td><td>10019</td><td>(212) 523-6150</td><td>Certified</td><td>12/20/2003</td>
+		</tr><tr>
+			<td>S.E.S. Operating Corporation d/b/a, Harlem East Life Plan</td><td>&nbsp;</td><td>2367-69 Second Ave.</td><td>New York</td><td>NY</td><td>10035</td><td>(212) 876-2300</td><td>Certified</td><td>04/17/2006</td>
+		</tr><tr>
+			<td>The New York Hospital Adult Methadone Maintenance Program</td><td>Vincent P. Dole Treatment and Research Insititute</td><td>Helmsley Tower</td><td>New York</td><td>NY</td><td>10021</td><td>(212) 746-1255</td><td>Certified</td><td>12/07/2006</td>
+		</tr><tr>
+			<td>START Treatment &amp; Recovery Centers, Inc</td><td>Kaleidoscope Clinic</td><td>119-121 West 124th St.</td><td>New York</td><td>NY</td><td>10027</td><td>(917) 589-8364</td><td>Certified</td><td>06/08/2006</td>
+		</tr><tr>
+			<td>STUYVESANT SQUARE DRUG DETOXIFICATION AND REHABILITATION PROGRAM</td><td>&nbsp;</td><td>1-9 Nathan D. Perlman Place</td><td>New York</td><td>NY</td><td>10003</td><td>(212) 420-4220</td><td>Certified</td><td>09/21/2003</td>
+		</tr><tr>
+			<td>Metropolitan Hospital Methadone Treatment Program</td><td>&nbsp;</td><td>1900 Second Ave., 99th St., Rm. 2M29</td><td>New York</td><td>NY</td><td>10029</td><td>(646) 672-3600</td><td>Certified</td><td>10/10/2006</td>
+		</tr><tr>
+			<td>S.E.S. Operating Corporation, Harlem East Life Plan Unit II</td><td>Harlem East Life Plan- Unit II</td><td>2367-69 Second Avenue</td><td>New York</td><td>NY</td><td>10035</td><td>(212) 876-2300</td><td>Certified</td><td>04/11/2012</td>
+		</tr><tr>
+			<td>Argus Community, Inc.</td><td>&nbsp;</td><td>507 West 145th Street</td><td>New York</td><td>NY</td><td>10031</td><td>&nbsp;</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>START Treatment &amp; Recovery Centers, Inc</td><td>&nbsp;</td><td>2ND &amp; 3RD FLOORS, 2406 Amsterdam Avenue</td><td>New York</td><td>NY</td><td>10033-7320</td><td>(347) 415-7012</td><td>Certified</td><td>05/31/2003</td>
+		</tr><tr>
+			<td>START Treatment &amp; Recovery Centers, Inc</td><td>&nbsp;</td><td>2191 3rd Avenue</td><td>New York</td><td>NY</td><td>10035-3520</td><td>(347) 404-8433</td><td>Certified</td><td>05/31/2003</td>
+		</tr><tr>
+			<td>Mount Sinai Beth Israel</td><td>Medically Managed Detox</td><td>1-9 Nathan D.Perlman Place</td><td>New York</td><td>NY</td><td>10003</td><td>(212) 420-2965</td><td>Certified</td><td>06/30/2022</td>
+		</tr><tr>
+			<td>Center for Comprehensive Health Practice, Inc</td><td>Extended Care Program (ECP)</td><td>35 E. 110th Street</td><td>New York</td><td>NY</td><td>10029</td><td>(212) 360-7876</td><td>Certified</td><td>07/01/2003</td>
+		</tr><tr>
+			<td>Elev8 Center of New York, LLC</td><td>&nbsp;</td><td>151 West 136 Street</td><td>New York</td><td>NY</td><td>10030</td><td>(833) 353-8863</td><td>Certified</td><td>01/17/2020</td>
+		</tr><tr>
+			<td>Greenwich House Inc., East - M.M.T.P.</td><td>&nbsp;</td><td>190 Mercer Street</td><td>New York</td><td>NY</td><td>10012</td><td>(212) 677-3400</td><td>Certified</td><td>05/09/2006</td>
+		</tr><tr>
+			<td>Department of Veterans Administration Affairs Opiate Replacement Treatment Program NY Harbor Healthcare System</td><td>&nbsp;</td><td>423 East 23rd Street</td><td>New York</td><td>NY</td><td>10010</td><td>(646) 273-8100</td><td>Certified</td><td>10/10/2003</td>
+		</tr><tr>
+			<td>CORNERSTONE FAMILY HEALTHCARE</td><td>&nbsp;</td><td>3 Commercial Place</td><td>Newburgh</td><td>NY</td><td>12550</td><td>(845) 220-2146</td><td>Certified</td><td>01/16/2009</td>
+		</tr><tr>
+			<td>Northpointe Council, Inc. Methadone - Maintenance Treatment Program Trott Access Center</td><td>Northpointe Council, Inc. Methadone- Maintenance Treatment Program</td><td>Trott Access Center, 1001-11th St.</td><td>Niagara Falls</td><td>NY</td><td>14301</td><td>(716) 278-8110</td><td>Certified</td><td>10/24/2005</td>
+		</tr><tr>
+			<td>Nyack Hospital Recovery Center for Change</td><td>Montefiore Nyack Hosptial Recovery Center</td><td>160 North Midland Avenue</td><td>Nyack</td><td>NY</td><td>10960</td><td>(845) 348-6775</td><td>Certified</td><td>06/06/2016</td>
+		</tr><tr>
+			<td>BestSelf Behavioral Health, Inc.</td><td>&nbsp;</td><td>3176 Abbott Road</td><td>Orchard Park</td><td>NY</td><td>14127</td><td>(716) 822-2117</td><td>Certified</td><td>11/08/2019</td>
+		</tr><tr>
+			<td>Farnham Inc</td><td>Farnham Family Services</td><td>283 West. 2nd St,</td><td>Oswego</td><td>NY</td><td>13126-3877</td><td>(315) 342-4489</td><td>Certified</td><td>08/23/2018</td>
+		</tr><tr>
+			<td>Lexington Center for Recovery Peekskill Clinic</td><td>&nbsp;</td><td>3 Corporate Drive</td><td>Peekskill</td><td>NY</td><td>10566</td><td>(914) 257-3500</td><td>Certified</td><td>06/22/2016</td>
+		</tr><tr>
+			<td>Conifer Park, Inc</td><td>&nbsp;</td><td>80 Sharron Ave</td><td>Plattsburgh</td><td>NY</td><td>12901</td><td>(518) 561-0130</td><td>Certified</td><td>11/13/2014</td>
+		</tr><tr>
+			<td>Bon Secours Community Hospital</td><td>New Directions</td><td>160 East Main Street</td><td>Port Jervis</td><td>NY</td><td>12771</td><td>845-274-7341</td><td>Certified</td><td>10/10/2006</td>
+		</tr><tr>
+			<td>Mid-Hudson Valley Division of Westchester Medical Center</td><td>The Kyle Goldberg Turning Point</td><td>241 North Road</td><td>Poughkeepsie</td><td>NY</td><td>12601</td><td>(845) 431-8767</td><td>Certified</td><td>05/09/2005</td>
+		</tr><tr>
+			<td>Lexington Center for Recovery, Inc.-MMTP</td><td>Lexington Center for Recovery, Inc.</td><td>41 Page Park Dr., Suite 200</td><td>Poughkeepsie</td><td>NY</td><td>12601</td><td>(845) 486-2850</td><td>Certified</td><td>05/01/2004</td>
+		</tr><tr>
+			<td>Medical Arts Sanitarium, Cornerstone of Rhinebeck</td><td>&nbsp;</td><td>500 Milan Hollow Rd</td><td>Rhinebeck</td><td>NY</td><td>12572</td><td>917-863-1830</td><td>Certified</td><td>07/20/2005</td>
+		</tr><tr>
+			<td>Samaritan Daytop Village  Inc., Methadone Treatment Program</td><td>Samaritan Daytop Village</td><td>130-20 89th Rd.</td><td>Richmond Hill</td><td>NY</td><td>11418</td><td>(718) 441-2835</td><td>Certified</td><td>06/08/2006</td>
+		</tr><tr>
+			<td>Suffolk County Department of Health Services, Division of Community Mental Hygiene East End Clinic</td><td>East End Clinic</td><td>300 Center Dr.</td><td>Riverhead</td><td>NY</td><td>11901</td><td>(631) 852-2680</td><td>Certified</td><td>11/16/2003</td>
+		</tr><tr>
+			<td>Rochester Pathways</td><td>Rochester Pathways</td><td>435 East Henrietta Street</td><td>Rochester</td><td>NY</td><td>14620</td><td>(585) 424-6580</td><td>Certified</td><td>06/12/2003</td>
+		</tr><tr>
+			<td>Strong Memorial Hospital Methadone Maintenance Treatment Clinic Department of Psychiatry</td><td>Strong Recovery</td><td>2613 W. Henrietta Rd.</td><td>Rochester</td><td>NY</td><td>14623</td><td>(585) 275-3161</td><td>Certified</td><td>10/23/2003</td>
+		</tr><tr>
+			<td>Buffalo Beacon Corporation</td><td>Beacon Center</td><td>303 W. Liberty St</td><td>Rome</td><td>NY</td><td>13440</td><td>(315) 367-1290</td><td>Certified</td><td>10/18/2017</td>
+		</tr><tr>
+			<td>Conifer Park, Inc</td><td>&nbsp;</td><td>600 Franklin St. Suite 204</td><td>Schenectady</td><td>NY</td><td>12305</td><td>(518) 372-7031</td><td>Certified</td><td>03/14/2019</td>
+		</tr><tr>
+			<td>Alcoholism &amp; Substance Abuse Council of Schenectady County, Inc.</td><td>New Choices Recovery Center</td><td>840 State Street</td><td>Schenectady</td><td>NY</td><td>12307-1206</td><td>(518) 382-7838</td><td>Provisional</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>County of Suffolk</td><td>North County Clinic</td><td>Suffolk County Department of Health Services, William J Lindsay Complex Bldg 151</td><td>Smithtown</td><td>NY</td><td>11787-4314</td><td>(631) 853-6410</td><td>Certified</td><td>11/12/2003</td>
+		</tr><tr>
+			<td>Staten Island University Hospital Behavioral Sciences Water St.-MMTP</td><td>Staten Island Univesity Hospital</td><td>111 Water St.</td><td>Staten Island</td><td>NY</td><td>10304</td><td>(718) 226-4990</td><td>Certified</td><td>06/15/2006</td>
+		</tr><tr>
+			<td>Staten Island University Hospital Behavioral Sciences, Seguine Ave. M.M.T.P.</td><td>Staten Island University Hospital</td><td>392 Seguine Ave.</td><td>Staten Island</td><td>NY</td><td>10309</td><td>(718) 226-3809</td><td>Certified</td><td>06/15/2006</td>
+		</tr><tr>
+			<td>Good Samaritan Hospital</td><td>&nbsp;</td><td>255 Lafayette Ave.</td><td>Suffern</td><td>NY</td><td>10901</td><td>(845) 274-7341</td><td>Certified</td><td>02/28/2006</td>
+		</tr><tr>
+			<td>Crouse Hospital OTP</td><td>&nbsp;</td><td>2775 Erie Blvd East</td><td>Syracuse</td><td>NY</td><td>13224</td><td>(315) 470-8334</td><td>Certified</td><td>03/29/2006</td>
+		</tr><tr>
+			<td>Helio Health, Inc.</td><td>&nbsp;</td><td>329 N. Salina Street</td><td>Syracuse</td><td>NY</td><td>13203</td><td>(315) 471-1564</td><td>Certified</td><td>04/17/2018</td>
+		</tr><tr>
+			<td>Conifer Park, Inc</td><td>Conifer Park, Inc</td><td>2435 Sixth Ave</td><td>Troy</td><td>NY</td><td>12180</td><td>(518) 274-5143</td><td>Certified</td><td>05/16/2018</td>
+		</tr><tr>
+			<td>Helio Health, Inc.</td><td>&nbsp;</td><td>1213 Court Street</td><td>Utica</td><td>NY</td><td>13502</td><td>(315) 624-9835</td><td>Certified</td><td>10/29/2019</td>
+		</tr><tr>
+			<td>Buffalo Beacon Corporation</td><td>Beacon Center</td><td>1508 Genesee St</td><td>Utica</td><td>NY</td><td>13502</td><td>(716) 602-9525</td><td>Certified</td><td>06/21/2021</td>
+		</tr><tr>
+			<td>Lexington Center for Recovery Methadone Maintenance Treatment Program</td><td>Lexington Center For Recovery, INC.</td><td>706 Executive Boulevard</td><td>Valley Cottage</td><td>NY</td><td>10989-2038</td><td>(845) 362-3904</td><td>Certified</td><td>10/31/2003</td>
+		</tr><tr>
+			<td>Credo Community Center for the Treatment of Addictions, Inc.</td><td>Credo Community Center for the Treatment of Addictions, Inc.</td><td>595 W Main St</td><td>Watertown</td><td>NY</td><td>13601</td><td>(315) 788-1530</td><td>Certified</td><td>09/12/2017</td>
+		</tr><tr>
+			<td>St. Joseph&#39;s Hospital Methadone Maintenance Treatment Program</td><td>St. Joseph&#39;s Hospital Methadone Maintenance Treatment Program</td><td>317 South Broadway</td><td>Yonkers</td><td>NY</td><td>10705</td><td>(914) 378-7566</td><td>Certified</td><td>04/04/2006</td>
+		</tr><tr>
+			<td>Medically Managed Inpatient Detoxification</td><td>St. John&#39;s Riverside Hospital - Park Care Pavilion</td><td>2 Park Ave.</td><td>Yonkers</td><td>NY</td><td>10703</td><td>(914) 964-7973</td><td>Certified</td><td>02/16/2006</td>
+		</tr><tr>
+			<td>St. John&#39;s Riverside Hospital-Park Care Pavilion O.T.P.</td><td>&nbsp;</td><td>2 Park Avenue</td><td>Yonkers</td><td>NY</td><td>10703</td><td>(914) 964-7972</td><td>Certified</td><td>10/19/2006</td>
+		</tr>
+	</table>
+</div>
